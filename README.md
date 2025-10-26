@@ -51,7 +51,3 @@ Keyboard → ISR done
 ...
 Simulation complete.
 ```
-
-
-```
-```
