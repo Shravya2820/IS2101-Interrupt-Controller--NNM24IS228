@@ -2,9 +2,9 @@
 # Interrupt Controller Simulation - IS2101
 
 ## Description
-This Java program simulates an **Interrupt Controller** managing interrupts from multiple devices (Keyboard, Mouse, Printer) with prioritization and masking support. 
+This Java program simulates an *Interrupt Controller* managing interrupts from multiple devices (Keyboard, Mouse, Printer) with prioritization and masking support. 
 - Devices can be masked/unmasked to enable or disable interrupts.
-- Interrupts are handled based on **priority**.
+- Interrupts are handled based on *priority*.
 - ISR (Interrupt Service Routine) execution is logged with timestamps.
 
 ## Features
